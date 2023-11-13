@@ -14,7 +14,7 @@ ln -s $HOME/dotfiles/_vimrc $HOME/.vimrc
 ln -s $HOME/dotfiles/_bashrc $HOME/.bashrc
 ln -s $HOME/dotfiles/ssh_config $HOME/.ssh/config
 cp -r $HOME/dotfiles/colors $HOME/.vim
-bash $HOME/dotfiles/install_iosevka.sh
+# bash $HOME/dotfiles/install_iosevka.sh
 
 # Notes
 
